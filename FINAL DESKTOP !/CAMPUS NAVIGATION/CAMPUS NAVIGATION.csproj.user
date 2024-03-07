@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AccountOverview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ALLIED.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CampusServicesDirectory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CampusTours.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CreateAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DeleteAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="DepartmentDirectory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EditAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EmergencyContacts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EventCalendar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Feedbacks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HelpCenter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LostandFound.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Notifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Recommendation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SearchAccount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SecurityGuard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentOrganizationDirectory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UpdatesFF.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

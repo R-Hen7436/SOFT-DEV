@@ -1,0 +1,1228 @@
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\sassy\OneDrive\Desktop\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\meish\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\sassy\Desktop\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\New folder (2)\New folder\CAMPUS NAVIGATION (orig)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.ALLIED.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.GLE.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.NGE.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.RTL.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SHS.resources
+C:\Users\sassy\Downloads\CAMPUS NAVIGATION (PA CHECK SA MESSAGE BOX)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.STUDY.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.ALLIED.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\KrabbyPatty\Documents\CITU\CPEPE361 - Software Development 1\1 - Ari trial\20-10-23\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.ALLIED.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+D:\CAMPUS NAVIGATION (Orig - WITH CODES)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.ALLIED.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\Alren\Desktop\CAMPUS NAVIGATION V3\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.ALLIED.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Notifications.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\sassy\Desktop\Softdev 1\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Recommendation.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.ALLIED.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Notifications.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Recommendation.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\asus\Downloads\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.ALLIED.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Notifications.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Recommendation.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\KrabbyPatty\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.ALLIED.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Notifications.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Recommendation.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+E:\Tayin\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.ALLIED.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Notifications.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Recommendation.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\meish\Downloads\desktop\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.ALLIED.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Notifications.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Recommendation.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\Alren\Desktop\diri ang recent\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.ALLIED.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Notifications.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Recommendation.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\Alren\Desktop\ALREN MAO NI ANG RECENT SA DESKTOP AMPINGI NI\CAMPUS NAVIGATION V3 (NOV 3)\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.ALLIED.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Notifications.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Recommendation.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\Alren\Desktop\IDK version\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.ALLIED.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Notifications.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Recommendation.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+C:\Users\Alren\Desktop\Naay X na button\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.exe
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.deps.json
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.runtimeconfig.json
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.CommonProtos.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Api.Gax.Grpc.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.PlatformServices.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Auth.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Apis.Core.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Firestore.V1.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Cloud.Location.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.LongRunning.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Auth.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Core.Api.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Client.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Grpc.Net.Common.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\bin\Debug\net6.0-windows\System.Linq.Async.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.AssemblyReference.cache
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.AccountOverview.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Admin.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.ALLIED.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusServicesDirectory.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CampusTours.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.CreateAccount.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DeleteAccount.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.DepartmentDirectory.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EditAccount.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EmergencyContacts.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.EventCalendar.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Feedbacks.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Form1.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.HelpCenter.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.LostandFound.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Notifications.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Properties.Resources.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.Recommendation.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SearchAccount.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.SecurityGuard.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.StudentOrganizationDirectory.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS_NAVIGATION.UpdatesFF.resources
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.GenerateResource.cache
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfoInputs.cache
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.AssemblyInfo.cs
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CoreCompileInputs.cache
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.csproj.CopyComplete
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\refint\CAMPUS NAVIGATION.dll
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.pdb
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\CAMPUS NAVIGATION.genruntimeconfig.cache
+D:\Tayin\FINAL DESKTOP !\CAMPUS NAVIGATION\obj\Debug\net6.0-windows\ref\CAMPUS NAVIGATION.dll
